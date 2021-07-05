@@ -62,3 +62,7 @@ form button:hover{
 .complete-btn {
     background: greenyellow;
 }
+.completed{
+    text-decoration: line-through;
+    opacity: 0.5;
+}
